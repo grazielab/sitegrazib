@@ -1,0 +1,101 @@
+
+body{
+    margin: 0px;
+    background-image: url("../img/nome.png");
+    background-repeat: no-repeat;
+    text-align: start;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+header{
+
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 2rem;
+    font-weight: 900;
+    letter-spacing: -0.0416666667rem;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    background-size: auto, 100vw 100vw, auto;
+    background-position: center center, top right, center;
+    padding-left: 20%;
+    padding-top: 10%;
+    color: rgb(38, 8, 77);
+}   
+
+h1{margin: 0;}
+
+h2{ 
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    }
+
+main{
+    
+    margin: 30px 18px 18px 18px;
+    position: relative;
+    font-weight:lighter;
+    display: block;
+    align-items: center;
+    padding-left: 14%;
+    
+}
+
+.principal1, .principal2{
+
+    font-family: "Roboto Mono", monospace; color: #3e0a5c;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 380px;
+}
+
+.principal1{
+   
+    vertical-align:top;
+}
+
+.principal2{
+    vertical-align: top;
+    }
+
+
+.colophon{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.linha{
+    width: 20%;
+    margin-left:40%;
+    height: 30px;
+    background: linear-gradient(135deg, #e2718d 0%, #e2718d 8%, #e9b921 50%, #e2718d7a 100%);
+    text-align: center;
+   
+}
+.linha p{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(114, 10, 139);
+    font-size: 15px;
+    vertical-align: middle;
+    padding-bottom: 0%;
+}
+footer{
+margin: 0;
+
+}
+
+a:link{
+
+    text-decoration: none;
+}
+
+
+
+
+
